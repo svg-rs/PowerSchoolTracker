@@ -3,7 +3,6 @@ package powerschooltracker
 import (
 	"fmt"
 	"github.com/tebeka/selenium"
-	"github.com/tebeka/selenium/chrome"
 	"log"
 )
 

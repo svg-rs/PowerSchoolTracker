@@ -6,7 +6,7 @@ import (
 
 const (
 	username int    = 381059
-	password string = "Sharkbutt10?"
+	password string = ""
 )
 
 func main() {
