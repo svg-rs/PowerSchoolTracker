@@ -1,4 +1,4 @@
-package powerschooltrackerimport
+package powerschooltracker
 
 import (
 	"fmt"
